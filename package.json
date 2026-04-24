@@ -1,0 +1,6 @@
+{
+  "name": "python-package-template",
+  "devDependencies": {
+    "pyright": "^1.1.0"
+  }
+}
